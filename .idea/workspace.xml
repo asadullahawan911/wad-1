@@ -1,72 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e5cd63d-db63-4eb0-9817-bd8ee9cf1ddc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/images/bmi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/images/morbid-obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/images/normal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/images/obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/images/over.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/images/under.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Mujtaba Shamas/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/images/bmi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/images/morbid-obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/images/normal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/images/obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/images/over.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/images/under.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi by Qamar Ali/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/images/bmi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/images/morbid-obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/images/normal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/images/obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/images/over.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/images/under.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Talha Jamil/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/images/bmi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/images/morbid-obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/images/normal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/images/obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/images/over.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/images/under.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi code by Umar Tayyab/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/WADMidtermSpring19.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/images/bmi.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/images/morbid-obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/images/normal.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/images/obesity.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/images/over.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/images/under.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bmi/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec 16/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec 17/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lec 17/quiz5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 16/gradient/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 16/gradient/script.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 16/gradient/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 16/jQuery/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/control-flow/exercise" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/control-flow/flow.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/data extraction/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/data extraction/extract.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/es6/es6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/es6/exercise" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/es6/var-let-const.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/scope/exercise" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lect 18/scope/scope.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec 15/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lec 15/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec 15/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lec 15/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lec 15/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lec 15/style.css" afterDir="false" />
+    <list default="true" id="7e5cd63d-db63-4eb0-9817-bd8ee9cf1ddc" name="Default Changelist" comment="Quiz TechBox Done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,10 +13,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lect 18/data extraction/extract.html">
+        <entry file="file://$PROJECT_DIR$/pro/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="55" column="29" lean-forward="true" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+            <state relative-caret-position="1785">
+              <caret line="105" column="22" lean-forward="true" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+              <folding>
+                <element signature="e#6138#6144#0#HTML" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,6 +38,7 @@
         <option value="$PROJECT_DIR$/lec 15/style.css" />
         <option value="$PROJECT_DIR$/lec 15/script.js" />
         <option value="$PROJECT_DIR$/lect 18/data extraction/extract.html" />
+        <option value="$PROJECT_DIR$/pro/index.php" />
       </list>
     </option>
   </component>
@@ -112,40 +52,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
             <path>
               <item name="wad-1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Asad Ullah Awan\PhpstormProjects\wad-1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="C:\xampp\htdocs\techbox\wad-1" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
             <path>
               <item name="wad-1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Asad Ullah Awan\PhpstormProjects\wad-1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lec 15" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wad-1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Asad Ullah Awan\PhpstormProjects\wad-1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lect 18" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wad-1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Asad Ullah Awan\PhpstormProjects\wad-1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lect 18" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="data extraction" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-            </path>
-            <path>
-              <item name="wad-1" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="C:\Users\Asad Ullah Awan\PhpstormProjects\wad-1" type="442cc68d:ScopeViewTreeModel$RootNode" />
-              <item name="lect 18" type="9f88c78c:ScopeViewTreeModel$FileNode" />
-              <item name="es6" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="C:\xampp\htdocs\techbox\wad-1" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="pro" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -186,6 +109,10 @@
       <workItem from="1556513751992" duration="3731000" />
       <workItem from="1557428037927" duration="685000" />
       <workItem from="1558502042192" duration="1393000" />
+      <workItem from="1558934738068" duration="1335000" />
+      <workItem from="1558952477163" duration="1020000" />
+      <workItem from="1558961770499" duration="84000" />
+      <workItem from="1558961873869" duration="1239000" />
     </task>
     <task id="LOCAL-00001" summary="Robot Quiz Solved">
       <created>1555098753686</created>
@@ -215,16 +142,38 @@
       <option name="project" value="LOCAL" />
       <updated>1558502378254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'remotes/upstream/master'&#10;&#10;# Conflicts:&#10;#&#9;lec 15/script.js&#10;#&#9;lec 15/style.css">
+      <created>1558934845866</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1558934845866</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Quiz TechBox Done">
+      <created>1558962337576</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1558962337576</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Quiz TechBox Solved">
+      <created>1558962738964</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1558962738964</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13281000" />
+    <option name="totallyTimeSpent" value="16959000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.29797572" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4991119" visible="true" weight="0.30121458" />
       <window_info id="Structure" order="1" sideWeight="0.5008881" side_tool="true" weight="0.3222672" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -236,7 +185,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49959514" visible="true" weight="0.3285968" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49959514" weight="0.3285968" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50040483" side_tool="true" weight="0.3285968" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3285968" />
@@ -291,7 +240,10 @@
     <MESSAGE value="Robot Quiz Solved" />
     <MESSAGE value="Commit whole directory" />
     <MESSAGE value="Merge remote-tracking branch 'remotes/upstream/master'&#10;&#10;# Conflicts:&#10;#&#9;lec 09/robot/style.css" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'remotes/upstream/master'&#10;&#10;# Conflicts:&#10;#&#9;lec 09/robot/style.css" />
+    <MESSAGE value="Merge remote-tracking branch 'remotes/upstream/master'&#10;&#10;# Conflicts:&#10;#&#9;lec 15/script.js&#10;#&#9;lec 15/style.css" />
+    <MESSAGE value="Quiz TechBox Done" />
+    <MESSAGE value="Quiz TechBox Solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Quiz TechBox Solved" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/lec 08/index.html">
@@ -394,10 +346,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lect 18/data extraction/extract.html">
+    <entry file="file://$PROJECT_DIR$/lect 18/data extraction/extract.html" />
+    <entry file="file://$PROJECT_DIR$/pro/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="55" column="29" lean-forward="true" selection-start-line="55" selection-start-column="29" selection-end-line="55" selection-end-column="29" />
+        <state relative-caret-position="1785">
+          <caret line="105" column="22" lean-forward="true" selection-start-line="105" selection-start-column="22" selection-end-line="105" selection-end-column="22" />
+          <folding>
+            <element signature="e#6138#6144#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

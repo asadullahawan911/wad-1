@@ -127,8 +127,13 @@ else
     </nav>
     <article id="content" class="container-fluid bg-white">
 
+
         <div class="row">
                 Coming Soon
+
+        <div class="row">
+            <?php getPro(); ?>
+
         </div>
     </article>
 
